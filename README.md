@@ -13,6 +13,8 @@ Xenoglyph is an alien-white, cybertribal look for KDE Plasma 6: pearl and bone s
 - Follows the active window. It is hidden for maximised, fullscreen and non-normal windows.
 - One click-through overlay on a 20 fps clock, with pre-rendered sprites, so it costs next to nothing and only runs while visible.
 
+![runes](screenshots/runes.gif)
+
 ![desktop](screenshots/desktop.png)
 
 ## Requirements
