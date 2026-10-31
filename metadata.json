@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Authors": [ { "Name": "splicer scorn (voidrane)" } ],
+        "Description": "Small glowing Daedric runes, embers and sparks haunt the active window",
+        "Icon": "preferences-system-windows",
+        "Id": "xenoglyph_runes",
+        "License": "GPL-3.0-or-later",
+        "Name": "Xenoglyph Runes",
+        "Version": "2.0",
+        "EnabledByDefault": false
+    },
+    "X-Plasma-API": "declarativescript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
